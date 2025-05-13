@@ -2,7 +2,7 @@
 
 We present the first benchmark to test LLM-based agents on threat hunting in the form of security question-answering pairs.
 
-- The dataset (Q&As) is in `secgym/questions/tests` folder.
+- The Q&A dataset is in `all_questions.json` file.
 - Checkout the incident reports in `incident_reports` folder.
 - Explore questions and graphs with jupyter notebooks in `notebooks` folder.
 
